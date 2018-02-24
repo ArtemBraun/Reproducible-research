@@ -2,7 +2,7 @@
 
 #### This Assignment is part of Reproducible Research Course by Coursera.
 
-#### Plot.R - the code for plotting. 
+#### `Plot.R` - the code for plotting. 
 
 #### Plot 1: Relationship between Mean Covered Charges and Mean Total Payments in New York
 
